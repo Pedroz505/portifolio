@@ -67,7 +67,6 @@ strong {
     justify-content: center;
     flex-direction: column;
     gap: 40px;
-    /*width: 593px;*/
     width: 50%;
 }
 
@@ -149,14 +148,4 @@ footer {
         max-width: 90%;
         padding-left: 10%;
     }
-}
-
-/* css__about */
-
-.conteudo__principal__texto__about {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    gap: 40px;
-    width: 574px;
 }
